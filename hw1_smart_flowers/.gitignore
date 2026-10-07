@@ -1,0 +1,14 @@
+build/
+*.log
+docs/
+report/*.aux
+report/*.out
+report/*.toc
+report/*.synctex.gz
+report/*.fls
+report/*.fdb_latexmk
+.vscode/
+.idea/
+.DS_Store
+*~
+*.swp
