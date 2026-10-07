@@ -1,0 +1,25 @@
+# Build
+build/
+
+# Logs
+*.log
+simulation.log
+
+# Doxygen
+docs/
+
+# LaTeX temporary files
+report/*.aux
+report/*.out
+report/*.toc
+report/*.log
+report/*.synctex.gz
+report/*.fls
+report/*.fdb_latexmk
+
+# IDE / editor files
+.vscode/
+.idea/
+.DS_Store
+*~
+*.swp
