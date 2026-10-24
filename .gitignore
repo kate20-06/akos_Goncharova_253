@@ -9,13 +9,13 @@ simulation.log
 docs/
 
 # LaTeX temporary files
-report/*.aux
-report/*.out
-report/*.toc
-report/*.log
-report/*.synctex.gz
-report/*.fls
-report/*.fdb_latexmk
+*.aux
+*.out
+*.toc
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
 
 # IDE / editor files
 .vscode/
