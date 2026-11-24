@@ -1,0 +1,8 @@
+build/
+simulation.log
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+__pycache__/
